@@ -1,0 +1,422 @@
+2026-06-23 22:26:32,707 INFO utils.logger - Obteniendo un posts
+2026-06-23 22:26:32,988 INFO utils.logger - Obteniendo TODOS los posts
+2026-06-23 22:26:33,347 INFO utils.logger - CREANDO POSTS
+2026-06-23 23:03:16,758 INFO utils.logger - Obteniendo una mascota
+2026-06-23 23:21:20,765 INFO utils.logger - Obteniendo una mascota
+2026-06-23 23:22:23,820 INFO utils.logger - Creando una mascota
+2026-06-23 23:22:23,894 INFO utils.logger - Obteniendo una mascota
+2026-06-23 23:23:07,568 INFO utils.logger - Creando una mascota
+2026-06-23 23:23:08,689 INFO utils.logger - Obteniendo una mascota
+2026-06-23 23:24:49,751 INFO utils.logger - Creando una mascota
+2026-06-23 23:24:51,384 INFO utils.logger - Obteniendo una mascota
+2026-06-23 23:31:18,158 INFO utils.logger - Creando mascota: {'id': 780743, 'name': 'Beethoven', 'status': 'available'}
+2026-06-23 23:31:19,581 INFO utils.logger - Response: {'id': 780743, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+2026-06-23 23:31:19,584 INFO utils.logger - Obteniendo mascota
+2026-06-23 23:38:48,617 INFO utils.logger - 
+    ===== CREATE PET =====
+    ID: <built-in function id>
+    ======================
+    
+2026-06-23 23:51:25,926 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 240697
+     Name: Beethoven
+     Status: available
+     Response: {'id': 240697, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-23 23:58:56,050 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 214292
+     Name: Beethoven
+     Status: available
+     Response: {'id': 214292, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-23 23:58:57,573 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: <built-in function id>
+    Response: {'id': 358153, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-24 00:10:21,163 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 810475
+     Name: Beethoven
+     Status: available
+     Response: {'id': 810475, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-24 00:10:22,712 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 273409
+    Response: {'id': 273409, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-24 00:10:22,712 INFO utils.logger - ID fixture creada: 273409
+2026-06-24 00:10:22,712 INFO utils.logger - ID response GET: 273409
+2026-06-24 00:12:53,506 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 878906
+     Name: Beethoven
+     Status: available
+     Response: {'id': 878906, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-24 00:12:55,659 INFO utils.logger - ID fixture creada: 275517
+2026-06-24 00:12:55,659 INFO utils.logger - ID response GET: 275517
+2026-06-24 00:12:55,659 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 275517
+    Response: {'id': 275517, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-24 00:18:01,462 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 186353
+     Name: Beethoven
+     Status: available
+     Response: {'id': 186353, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-24 00:18:03,342 INFO utils.logger - ID fixture creada: 924119
+2026-06-24 00:18:03,342 INFO utils.logger - ID response GET: 924119
+2026-06-24 00:18:03,342 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 924119
+    Response: {'id': 924119, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-24 00:19:35,440 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 671340
+     Name: Beethoven
+     Status: available
+     Response: {'id': 671340, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-24 00:19:37,998 INFO utils.logger - ID fixture creada: 163890
+2026-06-24 00:19:37,998 INFO utils.logger - ID response GET: 163890
+2026-06-24 00:19:37,998 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 1234
+    Response: {'id': 163890, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-24 00:25:09,300 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 754100
+     Name: Beethoven
+     Status: available
+     Response: {'id': 754100, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-24 00:25:11,120 INFO utils.logger - ID fixture creada: 470421
+2026-06-24 00:25:11,120 INFO utils.logger - ID response GET: 470421
+2026-06-24 00:25:11,121 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 470421
+    Response: {'id': 470421, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-27 19:29:26,432 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 790425
+     Name: Beethoven
+     Status: available
+     Response: {'id': 790425, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-27 19:29:27,920 INFO utils.logger - ID fixture creada: 610448
+2026-06-27 19:29:27,920 INFO utils.logger - ID response GET: 610448
+2026-06-27 19:29:27,920 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 610448
+    Response: {'id': 610448, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-27 19:49:25,948 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 846675
+     Name: Beethoven
+     Status: available
+     Response: {'id': 846675, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-27 19:49:27,479 INFO utils.logger - ID fixture creada: 228773
+2026-06-27 19:49:27,479 INFO utils.logger - ID response GET: 228773
+2026-06-27 19:49:27,479 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 228773
+    Response: {'id': 228773, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-27 19:49:29,555 INFO utils.logger - 
+        === UPDATE PET ===
+        ID: 232680
+        Response: {'id': 232680, 'name': 'Beethoven Actualizado', 'photoUrls': [], 'tags': [], 'status': 'sold'}
+        ====================
+        
+2026-06-27 20:45:20,695 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 736842
+     Name: Beethoven
+     Status: available
+     Response: {'id': 736842, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-27 20:45:22,542 INFO utils.logger - ID fixture creada: 146008
+2026-06-27 20:45:22,542 INFO utils.logger - ID response GET: 146008
+2026-06-27 20:45:22,542 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 146008
+    Response: {'id': 146008, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-27 20:45:24,216 INFO utils.logger - 
+        === UPDATE PET ===
+        ID: 630869
+        Response: {'id': 630869, 'name': 'Beethoven Actualizado', 'photoUrls': [], 'tags': [], 'status': 'sold'}
+        ====================
+        
+2026-06-27 21:25:07,370 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 334381
+     Name: Beethoven
+     Status: available
+     Response: {'id': 334381, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-27 21:25:09,390 INFO utils.logger - ID fixture creada: 339948
+2026-06-27 21:25:09,391 INFO utils.logger - ID response GET: 339948
+2026-06-27 21:25:09,391 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 339948
+    Response: {'id': 339948, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-27 21:25:10,864 INFO utils.logger - 
+        === UPDATE PET ===
+        ID: 561990
+        Response: {'id': 561990, 'name': 'Beethoven Actualizado', 'photoUrls': [], 'tags': [], 'status': 'sold'}
+        ====================
+        
+2026-06-27 21:49:14,850 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 194967
+     Name: Beethoven
+     Status: available
+     Response: {'id': 194967, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-27 21:49:16,990 INFO utils.logger - ID fixture creada: 929595
+2026-06-27 21:49:16,990 INFO utils.logger - ID response GET: 929595
+2026-06-27 21:49:16,991 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 929595
+    Response: {'id': 929595, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-27 21:49:18,541 INFO utils.logger - 
+        === UPDATE PET ===
+        ID: 293589
+        Response: {'id': 293589, 'name': 'Beethoven Actualizado', 'photoUrls': [], 'tags': [], 'status': 'sold'}
+        ====================
+        
+2026-06-27 21:49:21,553 INFO utils.logger - 
+        === DELETE PET ===
+        ID ELIMINADO: 738873
+        Response: {"code":200,"type":"unknown","message":"738873"}
+        ==================
+        
+2026-06-27 21:49:22,988 INFO utils.logger - 
+        === VALIDACION DELETE ===
+        ID CONSULTADO: 738873
+        Response GET: {'code': 1, 'type': 'error', 'message': 'Pet not found'}
+        =========================
+        
+2026-06-27 21:56:02,762 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 868405
+     Name: Beethoven
+     Status: available
+     Response: {'id': 868405, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-27 21:56:04,819 INFO utils.logger - ID fixture creada: 783148
+2026-06-27 21:56:04,820 INFO utils.logger - ID response GET: 783148
+2026-06-27 21:56:04,820 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 783148
+    Response: {'id': 783148, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-27 21:56:06,354 INFO utils.logger - 
+        === UPDATE PET ===
+        ID: 241810
+        Response: {'id': 241810, 'name': 'Beethoven Actualizado', 'photoUrls': [], 'tags': [], 'status': 'sold'}
+        ====================
+        
+2026-06-27 21:56:09,461 INFO utils.logger - 
+        === DELETE PET ===
+        ID ELIMINADO: 355172
+        Response: {"code":200,"type":"unknown","message":"355172"}
+        ==================
+        
+2026-06-27 21:56:10,535 INFO utils.logger - 
+        === VALIDACION DELETE ===
+        ID CONSULTADO: 355172
+        Response GET: {'code': 1, 'type': 'error', 'message': 'Pet not found'}
+        =========================
+        
+2026-06-27 21:57:09,638 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 903571
+     Name: Beethoven
+     Status: available
+     Response: {'id': 903571, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-27 21:57:11,719 INFO utils.logger - ID fixture creada: 319038
+2026-06-27 21:57:11,719 INFO utils.logger - ID response GET: 319038
+2026-06-27 21:57:11,719 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 319038
+    Response: {'id': 319038, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-27 21:57:13,253 INFO utils.logger - 
+        === UPDATE PET ===
+        ID: 442971
+        Response: {'id': 442971, 'name': 'Beethoven Actualizado', 'photoUrls': [], 'tags': [], 'status': 'sold'}
+        ====================
+        
+2026-06-27 21:57:16,657 INFO utils.logger - 
+        === DELETE PET ===
+        ID ELIMINADO: 148461
+        Response: {"code":200,"type":"unknown","message":"148461"}
+        ==================
+        
+2026-06-27 21:57:17,821 INFO utils.logger - 
+        === VALIDACION DELETE ===
+        ID CONSULTADO: 148461
+        Response GET: {'code': 1, 'type': 'error', 'message': 'Pet not found'}
+        =========================
+        
+2026-06-27 22:03:39,983 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 593735
+     Name: Beethoven
+     Status: available
+     Response: {'id': 593735, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-27 22:03:40,993 INFO utils.logger - 
+    === CREATE PET SIN NOMBRE ===
+    Response: {'id': 999999, 'name': '', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ============================
+    
+2026-06-27 22:03:42,531 INFO utils.logger - ID fixture creada: 683407
+2026-06-27 22:03:42,531 INFO utils.logger - ID response GET: 683407
+2026-06-27 22:03:42,531 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 683407
+    Response: {'id': 683407, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-27 22:03:45,307 INFO utils.logger - 
+        === UPDATE PET ===
+        ID: 693823
+        Response: {'id': 693823, 'name': 'Beethoven Actualizado', 'photoUrls': [], 'tags': [], 'status': 'sold'}
+        ====================
+        
+2026-06-27 22:03:49,096 INFO utils.logger - 
+        === DELETE PET ===
+        ID ELIMINADO: 229579
+        Response: {"code":200,"type":"unknown","message":"229579"}
+        ==================
+        
+2026-06-27 22:03:50,122 INFO utils.logger - 
+        === VALIDACION DELETE ===
+        ID CONSULTADO: 229579
+        Response GET: {'code': 1, 'type': 'error', 'message': 'Pet not found'}
+        =========================
+        
+2026-06-27 22:08:40,742 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 670485
+     Name: Beethoven
+     Status: available
+     Response: {'id': 670485, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-27 22:08:42,278 INFO utils.logger - ID fixture creada: 191026
+2026-06-27 22:08:42,278 INFO utils.logger - ID response GET: 191026
+2026-06-27 22:08:42,279 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 191026
+    Response: {'id': 191026, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-27 22:08:43,823 INFO utils.logger - 
+        === UPDATE PET ===
+        ID: 524147
+        Response: {'id': 524147, 'name': 'Beethoven Actualizado', 'photoUrls': [], 'tags': [], 'status': 'sold'}
+        ====================
+        
+2026-06-27 22:08:46,117 INFO utils.logger - 
+        === DELETE PET ===
+        ID ELIMINADO: 521387
+        Response: {"code":200,"type":"unknown","message":"521387"}
+        ==================
+        
+2026-06-27 22:08:47,391 INFO utils.logger - 
+        === VALIDACION DELETE ===
+        ID CONSULTADO: 521387
+        Response GET: {'code': 1, 'type': 'error', 'message': 'Pet not found'}
+        =========================
+        
+2026-06-27 22:08:48,461 INFO utils.logger - 
+        === DELETE PET NOT FOUND ===
+        Response: 
+        ============================
+        
+2026-06-27 22:14:13,850 INFO utils.logger - 
+     ===== CREATE PET =====
+     ID: 772920
+     Name: Beethoven
+     Status: available
+     Response: {'id': 772920, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+     ======================
+     
+2026-06-27 22:14:16,038 INFO utils.logger - ID fixture creada: 819867
+2026-06-27 22:14:16,038 INFO utils.logger - ID response GET: 819867
+2026-06-27 22:14:16,038 INFO utils.logger - 
+    ===== GET PET =====
+    ID consultado: 819867
+    Response: {'id': 819867, 'name': 'Beethoven', 'photoUrls': [], 'tags': [], 'status': 'available'}
+    ===================
+    
+2026-06-27 22:14:16,790 INFO utils.logger - 
+        === GET PET NOT FOUND ===
+        Response: {'code': 1, 'type': 'error', 'message': 'Pet not found'}
+        =========================
+        
+2026-06-27 22:14:18,462 INFO utils.logger - 
+        === UPDATE PET ===
+        ID: 643838
+        Response: {'id': 643838, 'name': 'Beethoven Actualizado', 'photoUrls': [], 'tags': [], 'status': 'sold'}
+        ====================
+        
+2026-06-27 22:14:22,038 INFO utils.logger - 
+        === DELETE PET ===
+        ID ELIMINADO: 108259
+        Response: {"code":200,"type":"unknown","message":"108259"}
+        ==================
+        
+2026-06-27 22:14:23,176 INFO utils.logger - 
+        === VALIDACION DELETE ===
+        ID CONSULTADO: 108259
+        Response GET: {'code': 1, 'type': 'error', 'message': 'Pet not found'}
+        =========================
+        
